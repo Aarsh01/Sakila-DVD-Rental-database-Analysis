@@ -1,11 +1,11 @@
-# Sakila-DVD-Rental-database-Analysis
-Introduction
+## **Sakila-DVD-Rental-database-Analysis**
+# **Introduction**
 In this project, we have queried the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, we have queried the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. For assistance in the queries, the schema for the DVD Rental database was used as given in the dvd-rental-erd-2.pdf.
 
-Local Environment Setup
+# **Local Environment Setup**
 Follow the steps provided below to setup the local environment with PostgreSQL and database
 
-Step 1. Downloading PostgreSQL
+**Step 1.** Downloading PostgreSQL
 
 First, we will need to install PostgreSQL on your local machine. The instructions below provide detailed description of the steps we need to take.
 
